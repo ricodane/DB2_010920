@@ -1,0 +1,3 @@
+SELECT EMP_lname,EMP_fname,EMP_INITIAL
+FROM "010920".Employee
+WHERE emp_JOBCODE = 'TECH'
